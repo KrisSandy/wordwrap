@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57173702533",
+    "project_id": "wordwrap-e4cc8",
+    "storage_bucket": "wordwrap-e4cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57173702533:android:a0e112f0e8ff4608feb6ec",
+        "android_client_info": {
+          "package_name": "com.example.wordwrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57173702533-9lnubkht68k679auggnbttbukq01dbkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVfa6ktX_VJRwhZC4Nr_U2wtlAfVQKpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57173702533-9lnubkht68k679auggnbttbukq01dbkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
