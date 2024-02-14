@@ -2,13 +2,13 @@ class Word {
   final String word;
   final List<String> notes;
   int status;
-  final DateTime addedOn = DateTime.now();
+  final DateTime addedOn;
 
   Word(
       {required this.word,
       required this.notes,
       this.status = 0,
-      required DateTime addedOn});
+      required this.addedOn});
 
   factory Word.fromJson(Map<String, dynamic> json) {
     return Word(

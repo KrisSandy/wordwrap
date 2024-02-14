@@ -16,8 +16,8 @@ class WordSearch extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             SizedBox(
-              width: 100.0,
-              height: 100.0,
+              width: 200.0,
+              height: 200.0,
               child: Image.asset('assets/icon.png'),
             ),
             const SizedBox(height: 32.0),
